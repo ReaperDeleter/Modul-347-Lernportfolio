@@ -1,0 +1,117 @@
+1. Welcher Befehl wird verwendet, um einen neuen Container auf Basis eines Images zu starten?  
+
+​​☒​ 	a) docker run  
+
+​​☐​ 	b) docker start  
+
+​​☐​ 	c) docker stop  
+
+​​☐​ 	d) docker rm  
+
+ 
+
+2. Welcher Befehl wird verwendet, um einen gestoppten Container zu entfernen?  
+
+​​☐​ 	a) docker run  
+
+​​☐​ 	b) docker start  
+
+​​☐​ 	c) docker stop  
+
+​​☒​ 	d) docker rm  
+
+ 
+
+3. Welcher Befehl wird verwendet, um alle laufenden Container anzuzeigen?  
+
+​​☐​ 	a) docker run  
+
+​​☐​ 	b) docker start  
+
+​​☐​ 	c) docker stop  
+
+​​☒​ 	d) docker ps  
+
+ 
+
+4. Welcher Befehl wird verwendet, um ein Image in ein Docker-Repository hochzuladen?  
+
+​​☐​a) docker run  
+
+​​☐​ 	b) docker start  
+
+​​☐​ 	c) docker pull  
+
+​​☒​ 	d) docker push  
+
+ 
+
+5. Welcher Befehl wird verwendet, um alle Container und Netzwerke zu stoppen und zu entfernen, die mit docker-compose up gestartet wurden?  
+
+​​☐​ 	a) docker run  
+
+​​☐​ 	b) docker start  
+
+​​☐​ 	c) docker stop  
+
+​​☒​ 	d) docker-compose down  
+
+ 
+
+6. Welcher Befehl wird verwendet, um die Version von Docker auf dem Computer anzuzeigen?  
+
+​​☒​ 	a) docker version  
+
+​​☐​ 	b) docker info  
+
+​​☐​ 	c) docker –version  
+
+​​☐​ 	d) docker status  
+
+ 
+
+7. Welcher Befehl wird verwendet, um eine Liste aller Images auf dem Computer anzuzeigen?  
+
+​​☒​ 	a) docker images  
+
+​​☐​ 	b) docker list  
+
+​​☐​ 	c) docker show  
+
+​​☐​ 	d) docker display  
+
+ 
+
+8. Welcher Befehl wird verwendet, um den Standard-Docker-Registry zu ändern?  
+
+​​☒​ 	a) docker registry  
+
+​​☐​ 	b) docker change  
+
+​​☐​ 	c) docker config  
+
+​​☐​ 	d) docker login  
+
+ 
+
+9. Welcher Befehl wird verwendet, um eine bestimmte Anzahl Log-Einträge eines Containers anzuzeigen?  
+
+​​☒​ 	a) docker logs  
+
+​​☐​ 	b) docker show logs  
+
+​​☐​ 	c) docker container logs  
+
+​​☐​ 	d) docker inspect logs  
+
+ 
+
+10. Welcher Befehl wird verwendet, um den Zustand von einem bestimmten Container anzuzeigen?  
+
+​​☐​ 	a) docker inspect  
+
+​​☐​ 	b) docker status  
+
+​​☐​ 	c) docker show  
+
+​​☒​ 	d) docker info  
